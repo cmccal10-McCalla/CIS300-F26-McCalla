@@ -131,15 +131,15 @@ footer a:hover {
 }
 
 #jujustuhero {
-    background-image: url("jujustu-kaisen-layout1.jpg");
+    background-image: url("./jujustu-kaisen-layout1.jpg");
 }
 
 #bleachhero {
-    background-image: url("bleach-tybw-layout1.jpg");
+    background-image: url("./bleach-tybw-layout1.jpg");
 }
 
 #chainsawhero {
-    background-image: url("chainsawman-layout1.jpg");
+    background-image: url("./chainsawman-layout1.jpg");
 }
 
 #jujustuhero, #bleachhero, #chainsawhero {
