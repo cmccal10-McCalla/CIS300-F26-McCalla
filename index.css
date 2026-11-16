@@ -154,19 +154,19 @@ footer a:hover {
 }
 
 #jujustuhero {
-    background-image: url("images/jujustu-kaisen-layout1.jpg");
+    background-image: url("jujustu-kaisen-layout1.jpg");
 }
 
 #bleachhero {
-    background-image: url("images/bleach-tybw-layout1.jpg");
+    background-image: url("bleach-tybw-layout1.jpg");
 }
 
 #chainsawhero {
-    background-image: url("images/chainsawman-layout1.jpg");
+    background-image: url("chainsawman-layout1.jpg");
 }
 
 #grumpy-anim {
-    background-image: url("images/grumpy-anim.gif");
+    background-image: url("grumpy-anim.gif");
 }
 
 #jujustuhero, #bleachhero, #chainsawhero {
